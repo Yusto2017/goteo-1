@@ -1,0 +1,125 @@
+contract-paypal_account: 'Email address vinculated to your Paypal account:'
+currency-switch: CONVERT
+overview-field-spread: Dissemination
+personal-field-accounts: 'Project accounts'
+project-chart-amount-end-round: 'End Round'
+project-costs-total: 'Total'
+project-collaborations-supertitle: 'Non-economic needs'
+project-collaborations-title: 'Looking for'
+project-error-main-lang: 'You can’t set this language [%s] as the main language because it is being used by an existing translation. Delete the existing translation in [%s], from the translation panel, to introduce a new one.'
+project-help-cost: 'I need help with the costs section'
+project-help-license: 'I need help with collective returns and licenses'
+project-langs-header: 'Project in:'
+project-media-play_video: 'Watch video'
+project-menu-home: Project
+project-menu-messages: Crowdsourcing
+project-menu-needs: Needs
+project-menu-supporters: Co-financiers
+project-menu-updates: News
+project-menu_title-home: 'Social impact: this project opens its code, shares knowledge, data or digital files in return for your backing.'
+project-menu_title-messages: 'Not only money: you can also give support with your talent, materials, contacts, knowledge...'
+project-menu_title-needs: 'Transparency of costs: detailed budget of minimum and optimum economic needs.'
+project-menu_title-supporters: 'Social network of support: co-financers are as much important as people creating this project.'
+project-menu_title-updates: 'Feedback and news: get informed about the project'' progress directly via its creators.'
+project-messages-answer_it: Respond
+project-messages-closed: 'It''s not possible to send messages to the project yet'
+project-messages-send_direct-header: 'Send a message to this project''s promoter'
+project-messages-send_message-button: Send
+project-messages-send_message-header: 'Write your message'
+project-not_published: 'This project is not public yet'
+project-remove-translation: 'Remove translation'
+project-remove-translation-confirm: 'Are you sure to remove this translation? This operation cannot be undone!'
+project-removed-translation-ko: 'Error while removing translation!'
+project-removed-translation-ok: 'Translation removed!'
+project-rewards-bonus_reward-title: Bonus
+project-rewards-header: Benefits
+project-rewards-individual_reward-limited: 'Limited reward'
+project-rewards-individual_reward-title: 'Individual rewards'
+project-rewards-individual_reward-units_left: '<span class="left">%s</span> units left'
+project-rewards-social_reward-title: 'Collective benefits'
+project-rewards-supertitle: 'What is offered in exchange'
+project-rounds: 'Single-round project'
+project-share-header: 'Share this project'
+project-share-pre_header: 'Let your network know that'
+project-side-investors-header: 'Already contributed'
+project-spread-embed_code: 'Embedding Code'
+project-spread-header: 'Spread the word and help this project get more visibility and donations!'
+project-spread-pre_widget: 'Spread the word'
+project-spread-social: 'I am backing %s project #goteo #crowdfunding'
+project-spread-widget: 'Project''s widget'
+project-spread-widget_legend: 'Copy and paste the code in your website or blog to help spread the word about this project'
+project-spread-widget_title: 'publish the project widget'
+project-support-supertitle: 'Economic needs'
+project-unpublished: 'This project''s campaign has been canceled.'
+project-view-categories-title: Categories
+project-view-metter-day_closed: 'Filed on'
+project-view-metter-day_created: Created
+project-view-metter-day_success: Finished
+project-view-metter-day_updated: 'Received on the'
+project-view-metter-days: Remaining
+project-view-metter-got: Received
+project-view-metter-investment: Co-financing
+project-view-metter-investors: Co-financiers
+project-view-metter-minimum: Minimum
+project-view-metter-optimum: Optimum
+project-view-preview: 'Preview the project'
+project-willpublish: 'This project will be published on %s'
+regular-new_project: 'New project'
+social_reward-access: Access
+social_reward-access_title: 'Access this collective resource'
+tooltip-project-bank: 'If you don''t want to add it now, you will be able to add it later when we formalise the contract'
+tooltip-project-help-cost: 'For any help about the costs breakdown, check this box. Send us the complete form to receive our advice.'
+tooltip-project-help-license: 'For any help about which licenses fit better to the collective returns of your project, check this box. Send us the complete form to receive our advice.'
+tooltip-project-paypal: "<p>Besides our secure bank payment gateway, you may receive contributions through PayPal</strong>. To do so, please write here an email address vinculated to an enabled PayPal account.</p>\r\n<p>Although it is not compulsory to have a PayPal account to receive the collected funds for your project, it is highly recommended. <strong>If you don't submit an enabled and verified PayPal account before we publish your campaign, contributions via PayPal won't be allowed.</strong></p>\r\n<p>This account cannot be changed later. Contact us if you need to modify it.</p>\r\n<p><strong>IMPORTANT: Note that you cannot use this same PayPal account to make contributions to your own project as it would generate a system error.</strong></p>"
+tooltip-project-rounds: 'If you choose this option, your project will only have a single 40-day round to obtain the necessary funding: all or nothing.'
+tooltip-project-scope: 'Specify the geographic impact that you hope this project will have (each category includes the previous one)'
+tooltip-project-spread: 'Tell us how you''ll spread the project among your community: channels, type of messages, dissemination actions, minimum schedule...'
+tooltip-updates-allow_comments: tooltip-updates-allow_comments
+tooltip-updates-date: tooltip-updates-date
+tooltip-updates-home: 'Tooltip text updates-home'
+tooltip-updates-image: tooltip-updates-image
+tooltip-updates-image_upload: tooltip-updates-image_upload
+tooltip-updates-media: tooltip-updates-media
+tooltip-updates-tags: 'Tooltip text updates-tags'
+tooltip-updates-text: tooltip-updates-text
+tooltip-updates-title: tooltip-updates-title
+project-about-title: 'About this project'
+project-chart-amount-ideal: Ideal
+project-chart-amount-reached: Acummulated
+project-chart-costs-reset: Back
+project-collaborations-available: 'Available crowdsourcing needs'
+project-collaborations-number: collaborators
+project-general-information: 'General information'
+project-go-up: 'Back to top'
+project-hide-donors: 'Hide donors'
+project-hide-needs: 'Hide list of needs'
+project-invest: Donation
+project-invest-msg: 'Support message:'
+project-menu-news: News
+project-menu-participate: Participate
+project-regular-support: Donate
+project-related: 'Related projects'
+project-rewards-side-title: Rewards
+project-show-donors: 'Show donors'
+project-show-needs: 'Show list of needs'
+project-view-metter-favourite: 'Remind me'
+
+project-social-commitment-title: 'Social commitment'
+project-create-title: 'The project starts'
+project-create-subtitle-alert: '<strong>WOOOOW!</strong><p>Let’s go further! Now it’s time to sum up the project in a few words</p>'
+project-create-minimum-field: 'Minimum (€)'
+project-create-minimum-calculate-button: 'Counting'
+project-create-minimum-alert: '<strong>BRAVOOO!</strong><p>Let''s go ahead! Think of how much money you need, click on counting and find out how many co-financiers you will need to get, through our average donation.</p>'
+project-create-minimum-calculated-alert: '<strong>VERY WELL!</strong><p>Do you think you can get around this number of people? If yes, go ahead! Otherwise, plan again your minimum budget and count again!</p>'
+project-create-publishing-date-field: 'When do you plan to publish your project?'
+project-create-social-select-field: 'Choose your social commitment'
+project-create-social-select-alert: '<strong>GOTEO-TASTIC!!</strong><p>At Goteo we need a social commitment, think about which is yours and choose it!</p>'
+project-create-social-text-field: 'Tell us what this social commitment is about.'
+project-create-social-text-alert: '<strong>TROPPO BELLO!!</strong><p> Now we need you to explain a little about this social commitment you chose.</p>'
+project-create-terms-field: 'I read, I understood and I accept the <a data-toggle="modal" data-target="#termsModal" href="">terms</a> and requirements for creating a project at Goteo, as well as the <a target="_blank" href="/legal/privacy">privacy policy</a> of the platform.'
+project-create-save-button: 'Save and continue'
+project-create-save-alert: '<strong>GRANDE!!</strong><p>Now that we have an idea of your project, you will go to the next step with an extended form</p>'
+project-create-modal-no-social-title: 'Social commitment'
+project-create-modal-no-social-description: 'It is mandatory to have a social commitment for your project to be accepted at Goteo. If you don’t commit yourself by choosing one, the button for continue will not be activated.'
+project-share-materials: 'Shared materials'
+project-create-no-social-commitment: 'None'

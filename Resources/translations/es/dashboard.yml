@@ -1,0 +1,182 @@
+api-key-no-generated: 'Aún no tienes una key generada'
+api-key-tool-tip: 'Con tu usuario y Api Key podrás realizar consultas a nuestra API'
+contract-data_title: 'Datos del contrato'
+dashboard-certificates-confirm: 'Confirmar datos'
+dashboard-certificates-confirm-checkbox: 'Confirmo que estos son mis datos legales reales y soy consciente de que no voy a poder modificar estos datos una vez confirmados'
+dashboard-certificates-confirmed: Confirmado
+dashboard-certificates-confirmed-ok: 'Datos fiscales confirmados correctamente, si tu certificado no se descarga automáticamente haz click %HERE%'
+dashboard-certificates-data-alert: '¡Ten en cuenta que una vez confirmado no se pueden modificar los datos!'
+dashboard-certificates-data-desc: 'Por favor, asegurate de que los datos del formulario son correctos y confirma el formulario'
+dashboard-certificates-data-download-all: 'Descarga y presenta todos los certificados del año fiscal en curso para tu declaración en Hacienda'
+dashboard-certificates-data-new-invests: 'Pero tampoco te preocupes, cualquier nuevo aporte que hagas en Goteo generará un nuevo certificado'
+dashboard-certificates-desc: 'Estos certificados te permitirán desgravar en tu declaración de la renta si eres contribuyente en el estado Español.'
+dashboard-certificates-details: 'Ver detalles'
+dashboard-certificates-details-desc: 'Lista de aportes para el certificado %CERT%'
+dashboard-certificates-download: 'Confirmar y descargar'
+dashboard-certificates-empty: 'Debes hacer algún aporte a un proyecto o recargar el monedero virtual para ver tus certificados'
+dashboard-certificates-expired: Caducado
+dashboard-certificates-no-pending: 'No hay ningún aporte pendiente'
+dashboard-certificates-pending: Pendiente
+dashboard-certificates-pending-desc: 'Estos son los aportes que se incluirán en certificados futuros.'
+dashboard-certificates-please-confirm: 'Debes marcar la casilla de verificación para poder continuar'
+dashboard-certificates-summary: 'Certificado %ID%, Año %YEAR%'
+dashboard-certificates-too-old: 'Este certificado es demasiado antiguo y no se puede modificar. Si tienes alguna duda ponte en contacto con nosotros'
+dashboard-certificates-totals: '%NUM% aportes, %AMOUNT%'
+dashboard-certificates-unconfirmed: 'Para descargar este certificado debes confirmar los datos primero!'
+dashboard-certificates-view-pending: 'Tus aportes a proyectos que todavía no han alcanzado el mínimo no se muestran. Puedes consultarlos %HERE%.'
+dashboard-certificates-no-invests: 'No se puede confirmar el certificado si no tiene aportaciones!'
+dashboard-chart-days: 'QUEDAN %s DÍAS'
+dashboard-chart-invested: 'FINANCIACIÓN OBTENIDA'
+dashboard-chart-investors: COFINANCIADORES
+dashboard-chart-no-invested: 'No hay aportes.'
+dashboard-chart-optimum: óptimo
+dashboard-embed_code: 'CÓDIGO DIFUSIÓN SIMPLE'
+dashboard-embed_code_investor: 'CÓDIGO CON IMAGEN DE COFINANCIADOR'
+dashboard-header-main: 'Mi panel'
+dashboard-investors-mail-fail: 'Fallo al enviar el mensaje a %s'
+dashboard-investors-mail-nowho: 'No se han encontrado destinatarios'
+dashboard-investors-mail-sendto: 'Enviado a %s de tus cofinanciadores:'
+dashboard-investors-mail-sent: 'Mensajes enviados correctamente'
+dashboard-investors-mail-text-required: 'Escribe el mensaje'
+dashboard-investors_table-disclaimer: 'Se recuerda al impulsor que, tal y como establece su contrato, los datos de las personas comecenas incluidos en el archivo descargables se facilitan a los únicos y exclusivos efectos de satisfacer a las personas comecenas las recompensas o retornos comprometidos en el proyecto, así como para informar a aquellas sobre las novedades, avances y actividades relacionadas con el proyecto, quedando absolutamente prohibido el uso de los mismos para cualquier otra finalidad. El incumplimiento de dicha obligación faculta a la Fundación Goteo para emprender las acciones legales correspondientes y retirar el proyecto de la plataforma.'
+dashboard-menu-activity: 'Mi actividad'
+dashboard-menu-activity-apikey: 'Clave API'
+dashboard-menu-activity-spread: Difusión
+dashboard-menu-activity-summary: Resumen
+dashboard-menu-activity-wall: 'Mi muro'
+dashboard-menu-admin_board: Administración
+dashboard-menu-calls-sponsors: Patrocinadores
+dashboard-menu-pool: 'Mi monedero'
+dashboard-menu-pool-available: Saldo
+dashboard-menu-pool-conditions: Condiciones
+dashboard-menu-profile: 'Mi perfil'
+dashboard-menu-profile-access: 'Datos de acceso'
+dashboard-menu-profile-location: Geolocalización
+dashboard-menu-profile-personal: 'Datos personales'
+dashboard-menu-profile-preferences: 'Mis preferencias'
+dashboard-menu-profile-profile: 'Editar perfil'
+dashboard-menu-profile-public: 'Perfil público'
+dashboard-menu-projects: 'Mis proyectos'
+dashboard-menu-projects-analytics: Analítica
+dashboard-menu-projects-commons: Retornos
+dashboard-menu-projects-contract: Contrato
+dashboard-menu-projects-analytics: 'Analítica'
+dashboard-menu-projects-social-commitment: 'Compromiso social'
+dashboard-menu-projects-messegers: Participantes
+dashboard-menu-projects-preview: 'Página pública'
+dashboard-menu-projects-rewards: Cofinanciadores
+dashboard-menu-projects-summary: Resumen
+dashboard-menu-projects-supports: Colaboraciones
+dashboard-menu-projects-updates: Novedades
+dashboard-menu-projects-widgets: Widget
+dashboard-menu-review_board: Revisión
+dashboard-menu-translate_board: Traducción
+dashboard-menu-translates: 'Mis Traducciones'
+dashboard-messegers-mail-sendto: 'Enviado a %s los participantes:'
+dashboard-my-wallet-available: 'Actualmente, tienes <span class="pool-amount">%s</span><br>en tu monedero Goteo'
+dashboard-my-wallet-contribute-button: Donar
+dashboard-my-wallet-modal-pool-info: "El monedero de Goteo es una funcionalidad de nuestra plataforma que te permite efectuar tu donación y decidir posteriormente a qué proyecto aportarla.<br> <p>Las donaciones que realizas a través de nuestra plataforma son fiscalmente desgravables, de acuerdo a la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo.</p> <p>Cuando efectúas tu donación, puedes descargarte un certificado de donación que justifica ante Hacienda tu contribución a una entidad sin ánimo de lucro. Puedes acceder a un histórico de los certificados disponibles asociados a tus donaciones en Goteo en tu panel del usuario, concretamente en la sección <a href=\"/dashboard/wallet/certificate\" target=\"_blank\">Certificado de donación</a>.</p><p> NOTA IMPORTANTE: Te recordamos que todas las aportaciones por las que hayas obtenido un certificado de donación de nuestra Fundación no se devuelven.\r\nEsto significa que si has hecho una donación vinculada a un proyecto concreto dentro de nuestra plataforma y este no llega a su objetivo mínimo de financiación durante su campaña, tu aporte irá a tu monedero pero no volverá a tu cuenta corriente. Sin embargo podrás destinar ese importe desde tu monedero virtual en Goteo.org a cualquier otro proyecto activo que desees en el momento que tú elijas, sin necesidad de volver a introducir tus datos bancarios o de PayPal.</p>"
+dashboard-my-wallet-pool-info: 'Más información sobre el uso de tu monedero'
+dashboard-no-projects: 'No tienes ningún proyecto, puedes crear uno <a href="/project/create">aquí</a>'
+dashboard-password-recover-advice: 'Asegúrate de restablecer tu contraseña'
+dashboard-project-analytics-fail: 'Ha ocurrido un error al guardar tus identificadores para analítica'
+dashboard-project-analytics-ok: 'Tus identificadores para analítica se han guardado correctamente'
+dashboard-project-blog-fail: 'Contacta con nosotr*s'
+dashboard-project-blog-inactive: 'Lo sentimos, la publicación de novedades en este proyecto está desactivada'
+dashboard-project-blog-wrongstatus: 'Lo sentimos, aún no se pueden publicar novedades en este proyecto...'
+dashboard-project-delete_alert: '¿Seguro que deseas eliminar absoluta y definitivamente este proyecto?'
+dashboard-project-updates-delete_fail: 'Error al eliminar la entrada'
+dashboard-project-updates-deleted: 'Entrada eliminada'
+dashboard-project-updates-fail: 'Ha habido algún problema al guardar los datos'
+dashboard-project-updates-inserted: 'Se ha añadido una nueva entrada'
+dashboard-project-updates-noblog: 'No se ha encontrado ningún blog para este proyecto'
+dashboard-project-updates-nopost: 'No se ha encontrado la entrada'
+dashboard-project-updates-postcorrupt: 'La entrada está corrupta, contacta con nosotros'
+dashboard-project-updates-saved: 'La entrada se ha actualizado correctamente'
+dashboard-rewards-address: 'Dirección de entrega:'
+dashboard-rewards-all_filter: Todas
+dashboard-rewards-amount_group: 'Aportaciones de '
+dashboard-rewards-amount_order: 'Por importe'
+dashboard-rewards-choosen: 'Recompensas esperadas:'
+dashboard-rewards-date_order: 'Por fecha'
+dashboard-rewards-fulfilled_filter: Cumplidas
+dashboard-rewards-fulfilled_status: Cumplida
+dashboard-rewards-group_msg: 'mensaje a ese grupo'
+dashboard-rewards-investors_table: '<p>Si quieres gestionarlo offline puedes <a id="sacaexcel" href="/dashboard/projects/rewards/table" target="_blank">sacar la Tabla de Cofinanciadores</a></p>'
+dashboard-rewards-issue: Incidencia!
+dashboard-rewards-massive_msg: 'Mensajes colectivos'
+dashboard-rewards-massive_msg-all: 'A todos los cofinanciadores de este proyecto'
+dashboard-rewards-massive_msg-all_alert: 'a todos es a todos, no tiene en cuenta el resto de marcados'
+dashboard-rewards-notice: 'ESTO ES UNA VISUALIZACIÓN DE LAS OPCIONES DE RETORNO QUE ELIGEN TUS COFINANCIADORES.<br />NO TIENES QUE GESTIONAR ESOS RETORNOS HASTA HABER LLEGADO AL MÍNIMO DE LA CANTIDAD DESEADA'
+dashboard-rewards-num_taken: 'Comprometidas '
+dashboard-rewards-pending_filter: Pendientes
+dashboard-rewards-pending_status: Pendiente
+dashboard-rewards-process: 'Aplicar marcados'
+dashboard-rewards-process_alert: 'Ojo! Al marcar como cumplida no se puede desmarcar. Continuamos?'
+dashboard-rewards-resign_filter: Donativos
+dashboard-rewards-resigns: 'Renuncia a la recompensa'
+dashboard-rewards-reward_order: 'Por retorno'
+dashboard-rewards-thanks: 'Agradecimiento / Donativo'
+dashboard-rewards-user_msg: 'Individual a '
+dashboard-rewards-user_order: 'Por usuario'
+dashboard-translate-doing_call: 'Estás traduciendo la convocatoria <strong>%s</strong>. El idioma original es <strong>%s</strong>'
+dashboard-translate-doing_node: 'Estás traduciendo el nodo <strong>%s</strong>. El idioma original es <strong>Español</strong>'
+dashboard-translate-doing_profile: 'Estas traduciendo tu perfil personal.'
+dashboard-translate-doing_project: 'Estás traduciendo el proyecto <strong>%s</strong>. El idioma original es <strong>%s</strong>'
+dashboard-translate-select_call: 'Selecciona convocatoria para traducir'
+dashboard-translate-select_node: 'Selecciona nodo para traducir'
+dashboard-translate-select_profile: 'Ir a traducir tu perfil personal'
+dashboard-translate-select_project: 'Selecciona proyecto para traducir'
+form-project_waitfor-campaing: 'Difunde tu proyecto, ayuda a que consiga el máximo de aportaciones!'
+form-project_waitfor-cancel: 'Finalmente hemos desestimado la propuesta para publicarla en Goteo, te invitamos a intentarlo con otra idea o concepto.'
+form-project_waitfor-edit: 'Cuando lo tengas listo mándalo a revisión. Necesitas llegar a un mínimo de información sobre el proyecto en el formulario.'
+form-project_waitfor-expired: 'No lo conseguiste :( Trata de mejorarlo e inténtalo de nuevo!'
+form-project_waitfor-fulfilled: 'Has cumplido con los retornos :) Gracias por tu participación!'
+form-project_waitfor-review: 'En breve nos pondremos en contacto contigo respecto al proyecto, una vez se lleve a cabo el proceso de revisión. A continuación lo publicaremos o bien te sugeriremos cosas para mejorarlo.'
+form-project_waitfor-success: 'Has conseguido el mínimo o más en aportes de cofinanciación para el proyecto. Enseguida te contactaremos para hablar de dinero :)'
+guide-dashboard-user-location: 'El sistema usa estos datos para geolocalizarte'
+guide-dashboard-user-preferences: 'Marca ''Sí'' en las notificaciones automáticas que quieras bloquear'
+guide-dashboard-user-profile: 'Tanto si quieres presentar un proyecto como incorporarte como cofinanciador/a, para formar parte de la comunidad de Goteo te recomendamos que pongas atención en tu texto de presentación, que añadas links relevantes sobre lo que haces y subas una imagen de perfil con la que te identifiques.'
+guide-user-data: 'Texto guía en la edición de campos sensibles.'
+user-changeemail-success: 'El email se ha cambiado con éxito ;)'
+user-changeemail-title: 'Cambiar email'
+user-changepass-confirm: 'Confirmar nueva contraseña'
+user-changepass-new: 'Nueva contraseña'
+user-changepass-old: 'Contraseña actual'
+user-changepass-title: 'Cambiar contraseña'
+user-email-change-sended: 'Te hemos enviado un email para que confirmes el cambio de dirección electrónica'
+user-password-changed: 'Has cambiado tu contraseña'
+user-personal-saved: 'Datos personales actualizados'
+user-prefer-saved: 'Tus preferencias de notificación se han guardado correctamente'
+user-preferences-comcurrency: 'Divisa en la que prefieres ver los importes'
+user-preferences-comlang: 'Idioma en el que prefieres recibir las notificaciones'
+user-preferences-currency: 'Divisa en la que prefieres ver los importes'
+user-preferences-email: 'Ocultar mi email a los proyectos que apoyo'
+user-preferences-mailing: 'Bloquear el envío de newsletter'
+user-preferences-rounds: 'Bloquear notificaciones de progreso de los proyectos que apoyo'
+user-preferences-threads: 'Bloquear notificaciones de respuestas en los mensajes que yo inicio'
+user-preferences-tips: 'Bloquear consejos de difusión de campaña (para impulsores)'
+user-preferences-updates: 'Bloquear notificaciones de novedades sobre los proyectos que apoyo'
+user-profile-saved: 'Información de perfil actualizada'
+user-save-fail: 'Ha habido algún problema al guardar los datos'
+dashboard-project-analytics-ok: 'Tus identificadores para analítica se han guardado correctamente'
+dashboard-project-analytics-fail: 'Ha ocurrido un error al guardar tus identificadores para analítica'
+
+dashboard-modal-success-msg: 'La URL ha sido actualizada correctamente'
+dashboard-add-new-share-material: 'Nuevo material'
+dashboard-edit-share-material-url: 'Editar URL'
+dashboard-modal-edit-url: 'Url donde se encuentra el material compartido'
+dashboard-modal-placeholder-edit-url: 'Url'
+dashboard-modal-success-msg: 'La URL ha sido actualizada correctamente'
+
+dashboard-new-material-form-success: 'El nuevo material compartido ha sido agregado correctamente.'
+dashboard-new-material-form-material: 'Material'
+dashboard-new-material-form-description: 'Descripción'
+dashboard-new-material-form-url: 'URL'
+dashboard-new-material-form-type: 'Tipo de material'
+dashboard-new-material-form-license: 'Licencia del material'
+dashboard-menu-projects-shared-materials: 'Materiales'
+project-no-share-material: 'No hay materiales compartidos por el proyecto'
+
+
+
