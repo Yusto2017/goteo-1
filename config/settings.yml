@@ -9,13 +9,13 @@ session:
     time: 3600
 
 # Internal secret for hashes
-secret: --a-very-secret-string---
+secret: HXtOYth9H5VAAw9ofV48t9UddOR6hYWRh//I3jBRyoE=
 
 # local environment: local, beta, real
 env: real # set to real to send emails
 debug: true # whether to show trace for errors or not
             # This is always true for local or beta env
-liveport: 35729 # Local development only livereload port (optional)
+# liveport: 35729 # Local development only livereload port (optional)
 
 # main node
 node: goteo
@@ -24,15 +24,15 @@ node: goteo
 lang: es
 
 # Default timezone
-timezone: Europe/Madrid
+timezone: Africa/Nairobi
 
 # url
 url:
     main: https://goteo2.herokuapp.com/
     # static resources url if you use a different assets server
-    assets: https://goteo2.herokuapp.com/
+    assets: //assets.goteo.org
     #optional, configure this as hostname only (ex: example.com) if you want languages to be selected as subdomains (es.example.com, en.example.com)
-    url_lang: goteo2.herokuapp.com/
+    url_lang: //assets.goteo.org
 
     # If you want to use a CDN or another web server to serve the cached images
     # You can define this constants. All cached images links will point to this

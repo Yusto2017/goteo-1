@@ -21,7 +21,6 @@ config/*
 !config/demo-settings.yml
 !config/vagrant-settings.yml
 !config/settings.yml
-dist
 
 phpunit.xml
 tests/build
