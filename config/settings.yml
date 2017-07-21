@@ -32,7 +32,7 @@ url:
     # static resources url if you use a different assets server
     assets: //assets.goteo.org
     #optional, configure this as hostname only (ex: example.com) if you want languages to be selected as subdomains (es.example.com, en.example.com)
-    url_lang: //assets.goteo.org
+    url_lang: //goteo2.herokuapp.com
 
     # If you want to use a CDN or another web server to serve the cached images
     # You can define this constants. All cached images links will point to this
