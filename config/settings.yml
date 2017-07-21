@@ -12,7 +12,7 @@ session:
 secret: HXtOYth9H5VAAw9ofV48t9UddOR6hYWRh//I3jBRyoE=
 
 # local environment: local, beta, real
-env: real # set to real to send emails
+env: beta # set to real to send emails
 debug: true # whether to show trace for errors or not
             # This is always true for local or beta env
 # liveport: 35729 # Local development only livereload port (optional)
