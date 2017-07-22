@@ -136,9 +136,9 @@ db:
     host:     us-cdbr-iron-east-03.cleardb.net # Database host
     port:     3306      # Database port
     charset:  UTF-8     # Database charset
-    database: heroku_fd814ec8806f83f     # Database schema (database name)
-    username: b5e2986b368f77      # Database user for the goteo database
-    password: 89ab223e     # Password for the goteo database
+    database: heroku_4fae4dd49c593da     # Database schema (database name)
+    username: b54874a367ffe9      # Database user for the goteo database
+    password: f5f34739     # Password for the goteo database
 
     # SELECT queries caching
     # set it as 'files' to enable sql cache
