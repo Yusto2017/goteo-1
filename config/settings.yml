@@ -28,11 +28,11 @@ timezone: Africa/Nairobi
 
 # url
 url:
-    main: https://goteo2.herokuapp.com/
+    main: //localhost:8081
     # static resources url if you use a different assets server
-    assets: //assets.goteo.org
+    assets: //localhost:8081
     #optional, configure this as hostname only (ex: example.com) if you want languages to be selected as subdomains (es.example.com, en.example.com)
-    url_lang: goteo2.herokuapp.com
+    url_lang: localhost:8081
 
     # If you want to use a CDN or another web server to serve the cached images
     # You can define this constants. All cached images links will point to this
@@ -133,12 +133,12 @@ filesystem:
 # Database stuff
 db:
     driver:   mysql     # Database driver (mysql)
-    host:     us-cdbr-iron-east-03.cleardb.net # Database host
+    host:     localhost # Database host
     port:     3306      # Database port
     charset:  UTF-8     # Database charset
-    database: heroku_4fae4dd49c593da     # Database schema (database name)
-    username: b54874a367ffe9      # Database user for the goteo database
-    password: f5f34739     # Password for the goteo database
+    database: goteo     # Database schema (database name)
+    username: root      # Database user for the goteo database
+    password:      # Password for the goteo database
 
     # SELECT queries caching
     # set it as 'files' to enable sql cache
