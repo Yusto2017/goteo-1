@@ -20,7 +20,7 @@ config/*
 !config/README.md
 !config/demo-settings.yml
 !config/vagrant-settings.yml
-!config/settings.yml
+config/settings.yml
 
 phpunit.xml
 tests/build
