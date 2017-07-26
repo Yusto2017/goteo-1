@@ -68,7 +68,12 @@
         "rych/phpass": "3.0.*@beta",
         "erusev/parsedown": "^1.6",
         "omnipay/omnipay": "^2.3",
+<<<<<<< HEAD
         "omnipay/paypal": "dev-master"
+=======
+        "omnipay/paypal": "dev-master",
+        "symfony/yaml": "^3.3"
+>>>>>>> 3e392d2a8888f8219bde7be179a88f0a0fab0c30
 
     },
 

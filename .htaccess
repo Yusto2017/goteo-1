@@ -6,6 +6,7 @@ ServerSignature Off
     # You can use this file to for Apache to point to the dist/ folder
     RewriteEngine On
     RewriteBase /dist
+    RewriteCond %{ENV:REDIRECT_STATUS} ^$
     RewriteCond %{REQUEST_FILENAME} !-f
     # Use this for debugging
     # RewriteRule .* index_dev.php?%{QUERY_STRING}

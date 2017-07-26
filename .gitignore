@@ -15,13 +15,12 @@ var/*
 !var/data
 !var/php
 var/php/sess_*
-composer.lock
 
 config/*
 !config/README.md
 !config/demo-settings.yml
 !config/vagrant-settings.yml
-dist
+config/settings.yml
 
 phpunit.xml
 tests/build

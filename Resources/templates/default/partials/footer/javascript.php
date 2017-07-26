@@ -10,6 +10,13 @@
 </script>
 
 <!-- geolocation -->
+<<<<<<< HEAD
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places"></script>
 <script type="text/javascript" src="<?php echo SRC_URL ?>/assets/js/geolocation.js"></script>
 
+=======
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDB5iKBQJQXIjI_h3irKKT2u5_P1UAsqfg&callback=initMap"
+  type="text/javascript"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places"></script>
+<script type="text/javascript" src="<?php echo SRC_URL ?>/assets/js/geolocation.js"></script>
+>>>>>>> 3e392d2a8888f8219bde7be179a88f0a0fab0c30
